@@ -14,6 +14,9 @@
 
 <img src="https://i.imgur.com/zovrBw2.png">
 
+## 😃 Demo
+Here's the [demo url](https://weichiachang.github.io/css-doodle-play/dist/) which deployed on github pages.
+
 ## 💡 Idea
 
 The idea comes from [file-icons-js](https://www.npmjs.com/package/file-icons-js), simply just out of interest and try to generate similar images by code 🐻.
