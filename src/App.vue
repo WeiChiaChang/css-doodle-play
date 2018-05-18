@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <css-doodle>
+    <css-doodle @click="generate">
       :doodle { 
         @grid: 25 / 100vmax; 
         background: #12152f; 
@@ -17,7 +17,15 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  methods: {
+    generate: function (event) {
+      // `this` inside methods points to the Vue instance
+      const doodle = document.querySelector('css-doodle');
+      /* just refresh */
+      doodle.update();
+    }
+  }
 }
 </script>
 
