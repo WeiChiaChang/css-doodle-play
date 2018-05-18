@@ -15,7 +15,7 @@
 <img src="https://i.imgur.com/zovrBw2.png">
 
 ## 😃 Demo
-Here's the [demo url](https://weichiachang.github.io/css-doodle-play/dist/) which deployed on github pages.
+Here's the [demo url](https://weichiachang.github.io/css-doodle-play/) which deployed on github pages.
 
 ## 💡 Idea
 
